@@ -11,6 +11,7 @@ foreach ($person as $key => $value) {
     # code...
     echo $key .  ":" . $value . "<br>";
     $counter++;
+    
 }
 
 $person["edad"] = 24;
